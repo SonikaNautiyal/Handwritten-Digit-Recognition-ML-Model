@@ -12,8 +12,11 @@ The MNIST dataset is used, containing 60,000 training images and 10,000 testing 
 
 Project Structure
 data/ - Folder to store dataset (if not loaded directly from libraries)
+
 notebooks/ - Jupyter notebooks for data exploration, preprocessing, and model training
+
 src/ - Python scripts for loading data, building models, and making predictions
+
 results/ - Saved models and evaluation results
 
 
