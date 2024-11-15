@@ -1,10 +1,3 @@
-# Handwritten-Digit-Recognition-ML-Model
-This repository contains a Machine Learning project to recognize handwritten digits from the widely-used MNIST dataset. Using Python and popular ML libraries, this project demonstrates how a model can be trained to accurately predict handwritten digits.
-
-Here’s a simplified and user-friendly README for your project:  
-
----
-
 # Handwritten Digit Recognition with Python and Machine Learning  
 
 This project demonstrates how to recognize handwritten digits (0-9) using machine learning and Python. We use the **MNIST dataset**, a popular benchmark for digit recognition tasks, and build models to classify digits from 28x28 pixel images.  
