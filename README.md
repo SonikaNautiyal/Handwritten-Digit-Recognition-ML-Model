@@ -15,46 +15,21 @@ data/ - Folder to store dataset (if not loaded directly from libraries)
 notebooks/ - Jupyter notebooks for data exploration, preprocessing, and model training
 src/ - Python scripts for loading data, building models, and making predictions
 results/ - Saved models and evaluation results
-Installation
-Clone this repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/handwritten-digit-recognition.git
-cd handwritten-digit-recognition
-Install dependencies:
 
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-Preprocess and visualize the data:
-
-bash
-Copy code
-python src/data_preprocessing.py
-Train the model:
-
-bash
-Copy code
-python src/train_model.py
-Evaluate the model:
-
-bash
-Copy code
-python src/evaluate_model.py
-Make Predictions: You can load a saved model and use it to predict digits in new images.
 
 Models Used
 This project explores multiple models:
 
 K-Nearest Neighbors (KNN)
+
 Support Vector Machines (SVM)
+
 Convolutional Neural Network (CNN) using TensorFlow/Keras for higher accuracy
 Results
-Model	Accuracy
-KNN	xx%
-SVM	xx%
-CNN	xx%
+
+
+
 Sample Predictions:
-<img src="C:\Users\nauti\OneDrive\Pictures\Screenshots\Screenshot 2024-11-15 130631.png" alt="Sample predictions of handwritten digits" width="500"/>
+![screenshot](<img width="394" alt="Screenshot 2024-11-15 130631" src="https://github.com/user-attachments/assets/c77c8e8d-a461-421a-b839-f4e8e3037af7">
+)
